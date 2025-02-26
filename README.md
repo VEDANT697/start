@@ -1,1 +1,1 @@
-# start
+# start the game
